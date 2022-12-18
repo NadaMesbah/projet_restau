@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\Projet\bin\Debug\Projet.exe.config
+C:\Users\admin\source\repos\Projet\bin\Debug\Projet.exe
+C:\Users\admin\source\repos\Projet\bin\Debug\Projet.pdb
+C:\Users\admin\source\repos\Projet\obj\Debug\Projet.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Projet\obj\Debug\Projet.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Projet\obj\Debug\Projet.Form1.resources
+C:\Users\admin\source\repos\Projet\obj\Debug\Projet.Form2.resources
+C:\Users\admin\source\repos\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\admin\source\repos\Projet\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Projet\obj\Debug\Projet.exe
+C:\Users\admin\source\repos\Projet\obj\Debug\Projet.pdb
